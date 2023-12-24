@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A2-2\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A2-2\payload.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A2-2\test21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A2-2\test22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A2-2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4CE7B412-D0B8-3C8E-9C1C-FC8851B0CFE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

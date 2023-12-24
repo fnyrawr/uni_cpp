@@ -1,0 +1,3 @@
+C:/Users/Florian/Google Drive/BeuthHS/2. Semester/Effiziente Software entwickeln mit C++/A3/build/CMakeFiles/treemap.dir
+C:/Users/Florian/Google Drive/BeuthHS/2. Semester/Effiziente Software entwickeln mit C++/A3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Florian/Google Drive/BeuthHS/2. Semester/Effiziente Software entwickeln mit C++/A3/build/CMakeFiles/ZERO_CHECK.dir

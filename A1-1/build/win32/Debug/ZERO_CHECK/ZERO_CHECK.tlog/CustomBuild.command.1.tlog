@@ -1,0 +1,10 @@
+^C:\USERS\FLORIAN\GOOGLE DRIVE\BEUTHHS\2. SEMESTER\EFFIZIENTE SOFTWARE ENTWICKELN MIT C++\A1-1\BUILD\CMAKEFILES\7826E2D051B3B83B678CFBAFB85E48BD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Florian/Google Drive/BeuthHS/2. Semester/Effiziente Software entwickeln mit C++/A1-1" "-BC:/Users/Florian/Google Drive/BeuthHS/2. Semester/Effiziente Software entwickeln mit C++/A1-1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Florian/Google Drive/BeuthHS/2. Semester/Effiziente Software entwickeln mit C++/A1-1/build/CPP_A11_VEC3F.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

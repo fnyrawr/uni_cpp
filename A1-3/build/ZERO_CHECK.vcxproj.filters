@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A1-3\build\CMakeFiles\9bf1d9516ee2a316bee62cfd639815e2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{00867E41-FA91-3931-AFD8-2C9017D1D62C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

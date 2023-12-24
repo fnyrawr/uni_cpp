@@ -1,0 +1,5 @@
+# ninja log v5
+6	135	7250824913264215	CMakeFiles/vec3f.dir/vec3f.cpp.obj	c5e9a7f03c0b11da
+389	510	7250824916965060	vec3f.exe	cb0c2d7e881c9dc6
+0	366	7250824915564727	CMakeFiles/vec3f.dir/main.cpp.obj	274ae80227a9e98b
+12	388	7250824915804792	CMakeFiles/vec3f.dir/test11.cpp.obj	a580defc5fa3004d

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A1-1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A1-1\vec3f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A1-1\test11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Florian\Google Drive\BeuthHS\2. Semester\Effiziente Software entwickeln mit C++\A1-1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{60617951-5630-344F-BBB9-160E0E898B9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
